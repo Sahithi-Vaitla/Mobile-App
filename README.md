@@ -1,10 +1,8 @@
 # Blog App
 
-The Blog App is a web application designed to help users manage their blog posts efficiently. It offers a range of features to streamline the blogging experience, including:
-
 ## Overview
 
-The Blog App provides a user-friendly interface for managing blog posts. Users can perform various tasks such as creating, viewing, editing, and deleting blog posts seamlessly within the application.
+The Blog App provides a user-friendly interface for managing blog posts efficiently.It offers a range of features to streamline the blogging experience. Users can perform various tasks such as creating, viewing, editing, and deleting blog posts seamlessly within the application.
 
 ## Key Features
 
