@@ -33,19 +33,19 @@ https://drive.google.com/file/d/1JnLgJFGG3q5j8TADO127RVODW4-UHWuN/view?usp=shari
 
 ## Screenshots of the workflow
 
-![This is how the homepage of blog app looks like]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 1.jpg")
+![This is how the homepage of blog app looks like](image1.png)
 
-![You can add your own blogs by clicking on the Add New Post button at the bottom and start typing your own blog]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 2.jpg")
+![You can add your own blogs by clicking on the Add New Post button at the bottom and start typing your own blog](image2.jpg)
 
-![You can edit the existing blogs just by clicking on the edit button provided at the bottom left of the blog]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 3.jpg")
+![You can edit the existing blogs just by clicking on the edit button provided at the bottom left of the blog](image3.jpg)
 
-![This is how the blog page looks like after adding a list of blogs. Here you can see the list view of all the blogs]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 4.jpg")
+![This is how the blog page looks like after adding a list of blogs. Here you can see the list view of all the blogs](image4.jpg)
 
-![You can delete a blog if you no longer wanted it to be on the list. Click on the delete button at the bottom right of the blog that's it your blog is deleted]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 5.jpg")
+![You can delete a blog if you no longer wanted it to be on the list. Click on the delete button at the bottom right of the blog that's it your blog is deleted](image5.jpg)
 
-![This is Error Handling feature added to this app to make sure each and every field is filled. A blog content without title doesn't makes sense and viceversa. So to avoid this this feature is included]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 6.jpg")
+![This is Error Handling feature added to this app to make sure each and every field is filled. A blog content without title doesn't makes sense and viceversa. So to avoid this this feature is included](image6.jpg)
 
-![If you want to view a blog completely no worries! just click on your desired blog post and then you will be navigated to the page where you can view full content of your blog and you can comeback to the blog listings by simply clicking on the back button at the bottom right corner of the blog]("C:\Academic works- spring 2024\Tech for mobile apps\Personal Mobile App\blog-app\image 7.jpg")
+![If you want to view a blog completely no worries! just click on your desired blog post and then you will be navigated to the page where you can view full content of your blog and you can comeback to the blog listings by simply clicking on the back button at the bottom right corner of the blog](image7.jpg)
 
 ## Future Enhancements
 
