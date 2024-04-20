@@ -33,19 +33,35 @@ https://drive.google.com/file/d/1JnLgJFGG3q5j8TADO127RVODW4-UHWuN/view?usp=shari
 
 ## Screenshots of the workflow
 
-![This is how the homepage of blog app looks like](image 1.jpg)
+## Screenshots of the workflow
 
-![You can add your own blogs by clicking on the Add New Post button at the bottom and start typing your own blog](image 2.jpg)
+### Homepage of the Blog App
+This is how the homepage of the blog app looks like:
+![Homepage](image%201.jpg)
 
-![You can edit the existing blogs just by clicking on the edit button provided at the bottom left of the blog](image 3.jpg)
+### Adding New Blogs
+You can add your own blogs by clicking on the "Add New Post" button at the bottom and start typing your own blog:
+![Adding New Blogs](image%202.jpg)
 
-![This is how the blog page looks like after adding a list of blogs. Here you can see the list view of all the blogs](image 4.jpg)
+### Editing Existing Blogs
+You can edit the existing blogs just by clicking on the "Edit" button provided at the bottom left of the blog:
+![Editing Existing Blogs](image%203.jpg)
 
-![You can delete a blog if you no longer wanted it to be on the list. Click on the delete button at the bottom right of the blog that's it your blog is deleted](image 5.jpg)
+### List View of Blogs
+This is how the blog page looks like after adding a list of blogs. Here you can see the list view of all the blogs:
+![List View of Blogs](image%204.jpg)
 
-![This is Error Handling feature added to this app to make sure each and every field is filled. A blog content without title doesn't makes sense and viceversa. So to avoid this this feature is included](image 6.jpg)
+### Deleting Blogs
+You can delete a blog if you no longer want it to be on the list. Click on the delete button at the bottom right of the blog; that's it, your blog is deleted:
+![Deleting Blogs](image%205.jpg)
 
-![If you want to view a blog completely no worries! just click on your desired blog post and then you will be navigated to the page where you can view full content of your blog and you can comeback to the blog listings by simply clicking on the back button at the bottom right corner of the blog](image 7.jpg)
+### Error Handling
+This is Error Handling feature added to this app to make sure each and every field is filled. A blog content without title doesn't make sense and vice versa. So to avoid this, this feature is included:
+![Error Handling](image%206.jpg)
+
+### Viewing a Blog
+If you want to view a blog completely, no worries! Just click on your desired blog post, and then you will be navigated to the page where you can view the full content of your blog. You can come back to the blog listings by simply clicking on the back button at the bottom right corner of the blog:
+![Viewing a Blog](image%207.jpg)
 
 ## Future Enhancements
 
