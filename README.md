@@ -33,8 +33,6 @@ https://drive.google.com/file/d/1JnLgJFGG3q5j8TADO127RVODW4-UHWuN/view?usp=shari
 
 ## Screenshots of the workflow
 
-## Screenshots of the workflow
-
 ### Homepage of the Blog App
 This is how the homepage of the blog app looks like:
 ![Homepage](image%201.jpg)
